@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="750px"
+   height="481px"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="counter.svg">
+  <metadata
+     id="metadata232">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1376"
+     id="namedview230"
+     showgrid="false"
+     inkscape:zoom="2.172232"
+     inkscape:cx="342.51636"
+     inkscape:cy="224.51455"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(0.5,0.5)"
+     id="g6">
+    <path
+       d="m 97.605996,300.65736 0,-32.75004 87.584924,0 0,65.50008 8.26724,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path8"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 177.4828,333.4074 15.97536,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path10"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 177.4828,300.65736 0,-65.50008"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <rect
+       x="113.4136"
+       y="284.33963"
+       width="47.926083"
+       height="65.500076"
+       pointer-events="none"
+       id="rect14"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788" />
+    <path
+       d="m 97.438246,300.71467 15.975364,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path16"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 97.438246,333.4647 15.975364,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path18"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 161.3397,300.71467 15.97536,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path20"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       font-size="11px"
+       id="g22"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="61.5"
+         y="308.5"
+         id="text24">D</text>
+    </g>
+    <g
+       font-size="11px"
+       id="g26"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="111.5"
+         y="308.5"
+         id="text28">Q</text>
+    </g>
+    <path
+       d="m 161.3397,333.4647 15.97536,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       font-size="11px"
+       id="g32"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="111.5"
+         y="348.5"
+         id="text34">Q</text>
+    </g>
+    <path
+       d="m 154.15078,329.37096 6.39015,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path36"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 113.41361,329.37096 7.98768,4.09374 -7.98768,4.09377"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path38"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 193.45816,300.65736 0,-32.75004 84.27801,0 0,65.50008 7.16497,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path40"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 273.33498,333.4074 16.5265,0 0,-0.56494"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path42"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 273.33498,300.65736 0,-65.50008"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path44"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <rect
+       x="209.26579"
+       y="284.33963"
+       width="47.926083"
+       height="65.500076"
+       pointer-events="none"
+       id="rect46"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788" />
+    <path
+       d="m 193.29041,300.71467 15.97537,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path48"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 193.29041,333.4647 15.97537,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path50"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 257.19188,300.71467 15.97536,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path52"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       font-size="11px"
+       id="g54"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="181.5"
+         y="308.5"
+         id="text56">D</text>
+    </g>
+    <g
+       font-size="11px"
+       id="g58"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="231.5"
+         y="308.5"
+         id="text60">Q</text>
+    </g>
+    <path
+       d="m 257.19188,333.4647 15.97536,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path62"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       font-size="11px"
+       id="g64"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="231.5"
+         y="348.5"
+         id="text66">Q</text>
+    </g>
+    <path
+       d="m 250.00295,329.37096 6.39015,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path68"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 209.26578,329.37096 7.98769,4.09374 -7.98769,4.09377"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path70"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 364.77794,333.4074 18.73111,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path72"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 284.90114,300.65736 -2.2046,0 0,-32.75004 86.4906,0 0,65.50008 15.97535,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path74"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 364.77794,300.65736 0,-65.50008"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path76"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <rect
+       x="301.12415"
+       y="284.33963"
+       width="47.926083"
+       height="65.500076"
+       pointer-events="none"
+       id="rect78"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788" />
+    <path
+       d="m 285.14874,300.71467 15.97537,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path80"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 285.14874,333.4647 15.97537,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path82"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 349.0502,300.71467 15.97535,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path84"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       font-size="11px"
+       id="g86"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="296.5"
+         y="308.5"
+         id="text88">D</text>
+    </g>
+    <g
+       font-size="11px"
+       id="g90"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="346.5"
+         y="308.5"
+         id="text92">Q</text>
+    </g>
+    <path
+       d="m 349.0502,333.4647 15.97535,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path94"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       font-size="11px"
+       id="g96"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="346.5"
+         y="348.5"
+         id="text98">Q</text>
+    </g>
+    <path
+       d="m 341.86127,329.37096 6.39017,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path100"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 301.12411,329.37096 7.98768,4.09374 -7.98768,4.09377"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path102"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 456.77207,300.65736 0,-16.37503 0,-49.12505"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path104"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <rect
+       x="392.98245"
+       y="284.33963"
+       width="47.926083"
+       height="65.500076"
+       pointer-events="none"
+       id="rect106"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788" />
+    <path
+       d="m 377.00708,300.71467 15.97536,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path108"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 377.00708,333.4647 15.97536,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path110"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 440.90853,300.71467 15.97535,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path112"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       font-size="11px"
+       id="g114"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="411.5"
+         y="308.5"
+         id="text116">D</text>
+    </g>
+    <g
+       font-size="11px"
+       id="g118"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="461.5"
+         y="308.5"
+         id="text120">Q</text>
+    </g>
+    <path
+       d="m 440.90853,333.4647 15.97535,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path122"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       font-size="11px"
+       id="g124"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="461.5"
+         y="348.5"
+         id="text126">Q</text>
+    </g>
+    <path
+       d="m 433.71961,329.37096 6.39015,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path128"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 392.98244,329.37096 7.98768,4.09374 -7.98768,4.09377"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path130"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 376.89525,300.65736 -1.65346,0 0,-32.75004 95.85218,0 0,65.50008 -14.3219,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path132"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,74.673362,327.32407)"
+       id="g134">
+      <switch
+         id="switch136">
+        <foreignObject
+           pointer-events="all"
+           width="24"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject72">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 25px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">CLK</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="12"
+           y="12"
+           font-size="12px"
+           id="text138"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">CLK</text>
+      </switch>
+    </g>
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,171.32429,222.52397)"
+       id="g140">
+      <switch
+         id="switch142">
+        <foreignObject
+           pointer-events="all"
+           width="15"
+           height="15"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject77">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 16px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Q<xhtml:sub>0</xhtml:sub>
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="8"
+           y="14"
+           font-size="12px"
+           id="text144"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">Q<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan3575">0</tspan>
+</text>
+      </switch>
+    </g>
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,267.17646,221.7052)"
+       id="g146">
+      <switch
+         id="switch148">
+        <foreignObject
+           pointer-events="all"
+           width="15"
+           height="15"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject83">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 16px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Q<xhtml:sub>1</xhtml:sub>
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+      </switch>
+    </g>
+    <path
+       d="m 545.46728,117.70745 -15.97537,0 -2.02087,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path164"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 523.27749,117.70745 5.59139,-2.86562 -1.39784,2.86562 1.39784,2.86563 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path166"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <rect
+       x="545.54718"
+       y="99.301933"
+       width="71.88913"
+       height="73.687592"
+       pointer-events="none"
+       id="rect168"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788" />
+    <path
+       d="m 545.46728,171.91696 -23.69146,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path176"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 545.54714,168.07702 7.98767,4.09376 -7.98767,4.09374 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path178"
+       inkscape:connector-curvature="0"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,505.20935,166.03013)"
+       id="g180">
+      <switch
+         id="switch182">
+        <foreignObject
+           pointer-events="all"
+           width="20"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject98">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 21px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:font
+                 style="font-size: 10px">CLK</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="10"
+           y="12"
+           font-size="12px"
+           id="text184"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">CLK</text>
+      </switch>
+    </g>
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,549.94038,110.35507)"
+       id="g186">
+      <switch
+         id="switch188">
+        <foreignObject
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject103">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 8px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:font
+                 style="font-size: 10px">D</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           font-size="12px"
+           id="text190"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">D</text>
+      </switch>
+    </g>
+    <path
+       d="m 515.72115,110.93638 0,-28.238723 117.88219,0 0,35.009793 -10.8872,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path198"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 618.5226,117.70745 5.59137,-2.86562 -1.39783,2.86562 1.39783,2.86563 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path200"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <ellipse
+       cx="561"
+       cy="84"
+       rx="8.5"
+       ry="8.5"
+       pointer-events="none"
+       id="ellipse202"
+       d="m 569.5,84 c 0,4.69442 -3.80558,8.5 -8.5,8.5 -4.69442,0 -8.5,-3.80558 -8.5,-8.5 0,-4.69442 3.80558,-8.5 8.5,-8.5 4.69442,0 8.5,3.80558 8.5,8.5 z"
+       sodipodi:cx="561"
+       sodipodi:cy="84"
+       sodipodi:rx="8.5"
+       sodipodi:ry="8.5"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"
+       style="fill:#d4e1f5;stroke:#000000" />
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,512.39827,110.81132)"
+       id="g204">
+      <switch
+         id="switch206">
+        <foreignObject
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject111">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 8px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           font-size="12px"
+           id="text208"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">+</text>
+      </switch>
+    </g>
+    <path
+       d="m 492.58083,117.70745 10.88722,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path210"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 507.66157,117.70745 -5.59137,2.86563 1.39785,-2.86563 -1.39785,-2.86562 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path212"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <rect
+       x="480.84692"
+       y="111.58318"
+       width="11.981521"
+       height="12.281264"
+       rx="1.7972283"
+       ry="1.8421897"
+       pointer-events="none"
+       id="rect214"
+       style="fill:#d4e1f5;stroke:#000000;stroke-width:0.80869788" />
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,484.44139,111.99258)"
+       id="g216">
+      <switch
+         id="switch218">
+        <foreignObject
+           pointer-events="all"
+           width="6"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject119">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 7px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:font
+                 style="font-size: 10px">1</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="3"
+           y="12"
+           font-size="12px"
+           id="text220"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">1</text>
+      </switch>
+    </g>
+    <path
+       d="m 426.53071,202.46455 q 39.93841,0 19.96919,-20.46876 -19.96919,-20.46879 23.01251,-47.44663"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path226"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <path
+       d="m 473.0909,132.30577 -3.30691,5.43653 -0.27158,-3.19314 -2.65192,-1.6948 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path228"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:0.80869788;stroke-miterlimit:10" />
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,267.79452,222.03552)"
+       id="g140-4">
+      <switch
+         id="switch142-0">
+        <foreignObject
+           pointer-events="all"
+           width="15"
+           height="15"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject128">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 16px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Q<xhtml:sub>0</xhtml:sub>
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="8"
+           y="14"
+           font-size="12px"
+           id="text144-4"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">Q<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan3631">1</tspan>
+</text>
+      </switch>
+    </g>
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,356.94364,220.39515)"
+       id="g140-1">
+      <switch
+         id="switch142-1">
+        <foreignObject
+           pointer-events="all"
+           width="15"
+           height="15"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject134">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 16px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">Q<xhtml:sub>0</xhtml:sub>
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="8"
+           y="14"
+           font-size="12px"
+           id="text144-40"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">Q<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan3575-6">2</tspan>
+</text>
+      </switch>
+    </g>
+    <text
+       x="465.51999"
+       y="228.52834"
+       font-size="12px"
+       id="text144-4-4"
+       style="font-size:9.70437431px;text-anchor:middle;fill:#000000;font-family:Helvetica"
+       transform="scale(0.98772126,1.0124314)">Q<tspan
+   style="font-size:4.15418005px;baseline-shift:sub"
+   id="tspan3575-7-9">3</tspan>
+</text>
+    <g
+       transform="matrix(0.79876809,0,0,0.81875098,606.92832,110.42631)"
+       id="g186-6">
+      <switch
+         id="switch188-2">
+        <foreignObject
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject142">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; width: 8px; white-space: nowrap; word-wrap: normal; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+              <xhtml:font
+                 style="font-size: 10px">D</xhtml:font>
+            </xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           font-size="12px"
+           id="text190-4"
+           style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Helvetica">Q</text>
+      </switch>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3654"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:sans-serif"
+       transform="matrix(0.79876809,0,0,0.81875098,67.883829,49.35812)"><flowRegion
+         id="flowRegion3656"><rect
+           id="rect3658"
+           width="14.731391"
+           height="95.754044"
+           x="771.09625"
+           y="97.523468" /></flowRegion><flowPara
+         id="flowPara3660" /></flowRoot>    <ellipse
+       transform="matrix(1.8546195,0,0,2.2836798,472.27252,-362.67354)"
+       cx="54"
+       cy="218"
+       rx="53.5"
+       ry="35"
+       pointer-events="none"
+       id="ellipse172"
+       d="m 107.5,218 c 0,19.32997 -23.952766,35 -53.5,35 -29.547234,0 -53.5,-15.67003 -53.5,-35 0,-19.32997 23.952766,-35 53.5,-35 29.547234,0 53.5,15.67003 53.5,35 z"
+       sodipodi:cx="54"
+       sodipodi:cy="218"
+       sodipodi:rx="53.5"
+       sodipodi:ry="35"
+       style="fill:none;stroke:#000000;stroke-opacity:0.3;stroke-dasharray:3, 3" />
+    <ellipse
+       transform="matrix(4.9582015,0,0,3.0796478,34.298493,-370.83349)"
+       cx="54"
+       cy="218"
+       rx="53.5"
+       ry="35"
+       pointer-events="none"
+       id="ellipse172-3"
+       d="m 107.5,218 c 0,19.32997 -23.952766,35 -53.5,35 -29.547234,0 -53.5,-15.67003 -53.5,-35 0,-19.32997 23.952766,-35 53.5,-35 29.547234,0 53.5,15.67003 53.5,35 z"
+       sodipodi:cx="54"
+       sodipodi:cy="218"
+       sodipodi:rx="53.5"
+       sodipodi:ry="35"
+       style="fill:none;stroke:#000000;stroke-opacity:0.3;stroke-dasharray:3, 3" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="579.30914"
+       y="137.07443"
+       id="text3185"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3187"
+         x="580.90094"
+         y="137.07443"
+         style="font-size:12px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans">4-bit </tspan><tspan
+         sodipodi:role="line"
+         x="579.30914"
+         y="149.57443"
+         id="tspan3189"
+         style="font-size:12px;font-weight:normal;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans">REG</tspan></text>
+  </g>
+</svg>
