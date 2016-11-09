@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="391px"
+   height="201px"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="or.svg">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2059"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="4.4994416"
+     inkscape:cx="67.393275"
+     inkscape:cy="88.079416"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <defs
+     id="defs4" />
+  <g
+     transform="matrix(0.87202068,0,0,0.83805919,31.235952,27.25318)"
+     id="g6">
+    <path
+       d="m 130.89623,49.131635 39.5376,0 c 27.58143,0.9843 52.23707,22.292583 63.26016,54.683365 -11.02309,32.39078 -35.67873,53.69907 -63.26016,54.68337 l -39.5376,0 c 16.95372,-33.83078 16.95372,-75.535961 0,-109.366735 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path12"
+       inkscape:connector-curvature="0"
+       style="fill:#ffe599;stroke:#000000;stroke-width:1.69786108;stroke-miterlimit:10" />
+    <path
+       d="m 107.17366,67.359422 31.63009,0 m -31.63009,72.911158 31.63009,0 m 94.89024,-36.45558 31.63008,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path14"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.69786108;stroke-miterlimit:10" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:67.91444397px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="111.22841"
+     y="34.26289"
+     id="text3003-0"
+     sodipodi:linespacing="125%"
+     transform="scale(0.9314685,1.0735736)"><tspan
+       sodipodi:role="line"
+       id="tspan3005-9"
+       x="111.22841"
+       y="34.26289"
+       style="font-size:16.97861099px">        porta OR </tspan><tspan
+       sodipodi:role="line"
+       x="111.22841"
+       y="55.486153"
+       style="font-size:16.97861099px"
+       id="tspan3007-1">(lógica de disjunção)</tspan></text>
+</svg>

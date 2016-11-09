@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="305px"
+   height="388px"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="temporal.svg">
+  <metadata
+     id="metadata50">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2059"
+     id="namedview48"
+     showgrid="false"
+     inkscape:zoom="3.440767"
+     inkscape:cx="207.75468"
+     inkscape:cy="168.7967"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g6" />
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(0.5,0.5)"
+     id="g6">
+    <rect
+       x="131"
+       y="113"
+       width="129"
+       height="171"
+       pointer-events="none"
+       id="rect28"
+       style="fill:#d4e1f5;stroke:#000000" />
+    <path
+       d="m 88,155.75 43,0 m -43,85.5 43,0 m 129,-85.5 43,0 m -62.35,74.81 17.2,0 m -126.85,0 21.5,10.69 -21.5,10.69 m 129,-10.69 43,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       font-size="11px"
+       id="g32"
+       transform="translate(0,-102)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="141.25"
+         y="264.94"
+         id="text34">D</text>
+    </g>
+    <g
+       font-size="11px"
+       id="g36"
+       transform="translate(0,-102)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="248.75"
+         y="264.94"
+         id="text38">Q</text>
+    </g>
+    <g
+       font-size="11px"
+       id="g40"
+       transform="translate(0,-102)"
+       style="font-size:11px;text-anchor:middle;fill:#000000;font-family:'Arial,Helvetica'">
+      <text
+         x="248.75"
+         y="350.44"
+         id="text42">Q</text>
+    </g>
+    <path
+       d="m 16,125 25,0 c 17.44,0.54 33.03,12.23 40,30 -6.97,17.77 -22.56,29.46 -40,30 l -25,0 c 10.72,-18.56 10.72,-41.44 0,-60 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path44"
+       inkscape:connector-curvature="0"
+       style="fill:#ffd966;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 1,135 20,0 m -20,40 20,0 m 60,-20 20,0"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path46"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+  </g>
+</svg>

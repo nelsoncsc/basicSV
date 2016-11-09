@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="119px"
+   height="223px"
+   version="1.1"
+   content="&lt;mxfile userAgent=&quot;Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101 Firefox/38.0&quot; version=&quot;6.0.1.2&quot; editor=&quot;www.draw.io&quot; type=&quot;device&quot;&gt;&lt;diagram name=&quot;Page-1&quot;&gt;3VZNb9swDP01vgaJXSfpcc2y7dABBQps7alQbMbWKpuBTOdjv35UTNlx3XYblq3Acgn1RFIkH0k4iBbF/qNVm/wzpmCCcJzug+h9EIZRFI/5zyGHBpnM5lGDZFangnXArf4OAophVusUqp4iIRrSmz6YYFlCQj1MWYu7vtoaTf/VjcpgANwmygzRrzqlvEHnPi+HfwKd5f7lyVhuVip5zCzWpbwXhNH6+GuuC+V9iX6VqxR3J1C0DKKFRaRGKvYLMK64vmyN3YcXbtu4LZT0SwY+Djr43CHlUsgRLeWYYanMskOvjvmB8zDmU06FYXHCIuw13Qns5Hsnj2I53YDVBRBYr1GSPdx1Ku54f3r31OAbEB2kWVRNyFAX4DXiRsJoUnJ5vFgVgSqsbSJa0qGkbAaiNW0Z4VYH5FjsgVUsGEV62/eupOWyVq8rOwtS+edZkKe3ytTg++YJK1uwpLlBr9UKzA1WmjSWfLVCIiw46baTXKVSVeUtQcrozKkmnL2r5dVaG7NAg/boOhoff84FWXyE525OOPaBvBOv5Moupn5WJk08Gxd7sc/ckhiB4UG1znJU6CrhAqgSsK5GBZbojg8rRRzfwYWvLSs3CTJFzic3HSmBJrPLlmUXDuxf53nIoDe4kPaXPRXN5bzrhn4qUH46737c/4T06ZuSLlvp3NRWbKnMQzNX1WjDrDkmt/AAyh55PAdt8bxHWzwe0hbGQ9rCM7B2+Vf2Zbsj2/33+r687O3LUTwJ32ZnzoY7M/pHO3M2GJ8vQTg15PqzXrGYOTFNPcj+TvD/b9S2nCo/jSUJ2+HFeaZtHvd3pK/8T3bkxe8PGx+7L5/j3cn3ZbT8AQ==&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg2"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="abstracion.svg">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="3840"
+     inkscape:window-height="2059"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="5.986626"
+     inkscape:cx="-36.404354"
+     inkscape:cy="15.806119"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g24" />
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(0.5,0.5)"
+     id="g6">
+    <path
+       d="M 87 181 L 87 194.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path8" />
+    <path
+       d="M 87 199.88 L 83.5 192.88 L 87 194.63 L 90.5 192.88 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path10" />
+    <path
+       d="M 36 131 L 81 131 M 91 101 L 91 161 M 91 131 L 136 131"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       transform="rotate(269,86,131)"
+       pointer-events="none"
+       id="path12" />
+    <rect
+       x="77"
+       y="116"
+       width="4"
+       height="30"
+       fill="#000000"
+       stroke="#000000"
+       transform="rotate(269,86,131)"
+       pointer-events="none"
+       id="rect14" />
+    <path
+       d="M 74 206 L 99 206 M 76 208.5 L 97 208.5 M 78 211 L 95 211 M 82.25 216 L 90.75 216 M 84.25 218.5 L 88.75 218.5 M 86.5 201 L 86.5 206 M 80.25 213.5 L 92.75 213.5 M 86.25 221 L 86.75 221"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path16" />
+    <path
+       d="M 31 28 L 31 8 L 86 8 L 86 84.63"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path18" />
+    <path
+       d="M 86 89.88 L 82.5 82.88 L 86 84.63 L 89.5 82.88 Z"
+       fill="#000000"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path20" />
+    <path
+       d="M 1 68 L 61 68 M 31 68 L 31 28"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path22" />
+    <g
+       transform="translate(12.5,75.5)"
+       id="g24">
+      <switch
+         id="switch26">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="36"
+           height="31"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"
+           id="foreignObject28">
+          <xhtml:div
+             style="display: inline-block; font-size: 24px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">V<xhtml:sub>dd</xhtml:sub>
+</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="18"
+           y="28"
+           font-size="24px"
+           id="text30"
+           style="font-size:24px;text-anchor:middle;fill:#000000;font-family:Helvetica">Vdd</text>
+      </switch>
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         x="16.227356"
+         y="137.9799"
+         id="text3011"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan3013"
+           x="16.227356"
+           y="137.9799"
+           style="font-size:22px">Gnd</tspan></text>
+    </g>
+  </g>
+</svg>
